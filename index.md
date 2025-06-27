@@ -14,7 +14,7 @@ header:
 
 Gameplay Ability System(GAS), 애니메이션, UI, AI 등 게임 전반의 클라이언트 구조 설계 및 구현이 가능한 신입 개발자입니다. <br>
 <br>
-Unreal Engine 5 기반의 전투 시스템을 설계하며, GAS를 활용한 콤보 공격, AttributeSet, GameplayTag 기반 상태값, Perception AI 시스템 등을 직접 구현했습니다.<br> 
+Unreal Engine 5 기반의 전투 시스템을 설계하며, GAS를 활용한 콤보 공격, AttributeSet, GameplayTag 기반 상태값, Perception AI 시스템 등을 구현했습니다.<br> 
 <br>
 또한 Unity 기반 멀티플레이 팀 프로젝트에 참여해 캐릭터 동기화, 채팅 기능 등을 개발하며 협업 경험도 갖추고 있습니다.<br>
 <br>
