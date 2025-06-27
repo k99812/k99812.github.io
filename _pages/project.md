@@ -21,6 +21,7 @@ toc_sticky: true
 | [WKMetaverse](https://github.com/k99812/WKMetaverse)| 유니티 멀티플레이 <br> 팀 프로젝트|2022.06 ~ 2023.02|
 | [Cpp](https://github.com/k99812/Cpp) | 코딩테스트 <br> 알고리즘 문제 풀이|2023.05 ~ |
 
+<span class="detail">프로젝트의 코드와 기술설명은 GitHub 저장소에 있습니다.</span><br>
 <br>
 
 # 언리얼엔진 포트폴리오
@@ -29,13 +30,13 @@ toc_sticky: true
   <img src="/assets/images/project_p.gif" alt="프로젝트 썸네일" class="project-image" />
 
   <div class="project-info">
-    <h2>Proejct_P</h2>
+    <h2>Project_P</h2>
     <p>GAS 기반 전투 시스템, AI Perception, UI를 연동한 언리얼 엔진 포트폴리오 프로젝트</p>
     <a href="https://github.com/k99812/Project_P" target="_blank" class="github-link">
       <img src="/assets/images/github.png"
            alt="GitHub 링크"
            class="github-icon" />
-      <span>GitHub</span>
+      <span>GitHub 저장소 링크</span>
     </a>
   </div>
 </div>
@@ -76,7 +77,7 @@ toc_sticky: true
       <img src="/assets/images/github.png"
            alt="GitHub 링크"
            class="github-icon" />
-      <span>GitHub</span>
+      <span>GitHub 저장소 링크</span>
     </a>
   </div>
 </div>
