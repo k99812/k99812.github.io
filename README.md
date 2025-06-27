@@ -1,6 +1,6 @@
 # 포트폴리오 사이트
 
-Github Pages를 이용 및 Minimal Mistakes Jekyll theme를 사용하여 만든 포트폴리오 사이트입니다.
+Github Pages 및 Minimal Mistakes Jekyll theme를 사용하여 만든 포트폴리오 사이트입니다.
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
