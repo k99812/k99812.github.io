@@ -49,3 +49,54 @@ Unreal Engine 5 기반의 전투 시스템을 설계하며, GAS를 활용한 콤
     </div>
   </div>
 </div>
+
+<br>
+
+<h3>BLOG</h3>
+
+<div class="blog-section">
+  <div class="blog-card">
+    <img src="/assets/images/tree.png" alt="블로그 썸네일" class="blog-image" />
+
+  <div class="blog-info">
+    <h3>몬스터 AI 개선(행동트리 테스크를 활용)</h3>
+    <p>행동트리 테스크를 이용해 AI 회전 문제를 해결한 사례를 정리한 글</p>
+    <a href="https://k99812.tistory.com/155" target="_blank" class="blog-link">
+      <img src="/assets/images/blog.png"
+           alt="블로그 링크"
+           class="blog-icon" />
+        <span>블로그 보기</span>
+    </a>
+  </div>
+  </div>
+
+  <div class="blog-card">
+    <img src="/assets/images/value.png" alt="블로그 썸네일" class="blog-image" />
+
+  <div class="blog-info">
+      <h3>value(lvalue, rvalue, xvalue)와 레퍼런스</h3>
+      <p>C++ 이동 시멘틱을 이해하기 위한 lvalue, rvalue, xvalue 개념 정리</p>
+      <a href="https://k99812.tistory.com/157" target="_blank" class="blog-link">
+        <img src="/assets/images/blog.png"
+           alt="블로그 링크"
+           class="blog-icon" />
+        <span>블로그 보기</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <img src="/assets/images/ccw.png" alt="블로그 썸네일" class="blog-image" />
+
+  <div class="blog-info">
+    <h3>CCW를 이용한 선분교차 판정</h3>
+    <p>외적과 CCW 알고리즘을 활용해 선분 교차 여부와 교차점을 판별하는 법 설명</p>
+    <a href="https://k99812.tistory.com/156" target="_blank" class="blog-link">
+      <img src="/assets/images/blog.png"
+           alt="블로그 링크"
+           class="blog-icon" />
+        <span>블로그 보기</span>
+    </a>
+  </div>
+  </div>
+</div>

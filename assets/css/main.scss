@@ -8,6 +8,95 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.blog-section {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 24px;
+  justify-content: center;
+  padding: 24px 0;
+  overflow-x: auto;
+}
+
+.blog-card {
+  width: 300px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  overflow: hidden;
+  background-color: white;
+  transition: transform 0.2s ease;
+}
+
+.blog-card:hover {
+  transform: translateY(-5px);
+}
+
+.blog-image {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.blog-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 220px;
+  padding: 12px;
+}
+
+.blog-info h3 {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.blog-info p {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 12px;
+  line-height: 1.4;
+}
+
+.blog-info a {
+  color: #0056d2;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.blog-info a:hover {
+  text-decoration: underline;
+}
+
+.blog-icon {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-bottom: 1px;
+  transition: transform 0.2s;
+}
+
+.blog-link {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 6px;
+  margin-top: auto; /* 하단 고정 */
+  font-weight: 700;
+  font-size: 16px;
+  text-decoration: none;
+  color: #000;
+}
+
+.blog-link span {
+  color: #000;
+}
+
+.blog-link:hover span {
+  color: #2f7d95;
+  text-decoration: underline;
+}
+
 .detail {
   font-size: 18px;
 }
@@ -69,5 +158,6 @@ search: false
 }
 
 .github-link:hover span {
+  color: #2f7d95;
   text-decoration: underline;
 }
