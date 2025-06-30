@@ -65,7 +65,7 @@ Unreal Engine 5 기반의 전투 시스템을 설계하며, GAS를 활용한 콤
       <img src="/assets/images/blog.png"
            alt="블로그 링크"
            class="blog-icon" />
-        <span>블로그 보기</span>
+        <span>블로그 글 보기</span>
     </a>
   </div>
   </div>
@@ -80,7 +80,7 @@ Unreal Engine 5 기반의 전투 시스템을 설계하며, GAS를 활용한 콤
         <img src="/assets/images/blog.png"
            alt="블로그 링크"
            class="blog-icon" />
-        <span>블로그 보기</span>
+        <span>블로그 글 보기</span>
       </a>
     </div>
   </div>
@@ -95,7 +95,7 @@ Unreal Engine 5 기반의 전투 시스템을 설계하며, GAS를 활용한 콤
       <img src="/assets/images/blog.png"
            alt="블로그 링크"
            class="blog-icon" />
-        <span>블로그 보기</span>
+        <span>블로그 글 보기</span>
     </a>
   </div>
   </div>
