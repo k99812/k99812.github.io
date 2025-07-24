@@ -17,9 +17,10 @@ toc_sticky: true
 
 |프로젝트|프로젝트설명|기간|비고|
 |:---:|:---:|:---:|:---:|
-| [Project_P](https://github.com/k99812/Project_P) | 언리얼 엔진 <br> 개인 포트폴리오|2024.06 ~ |
-| [WKMetaverse](https://github.com/k99812/WKMetaverse)| 유니티 멀티플레이 <br> 팀 프로젝트|2022.06 ~ 2023.02|
-| [Cpp](https://github.com/k99812/Cpp) | 코딩테스트 <br> 알고리즘 문제 풀이|2023.05 ~ |
+| [Project_P](https://github.com/k99812/Project_P) | 언리얼 엔진 <br> 개인 포트폴리오 |2024.06 ~ | 진행중 |
+| [WKMetaverse](https://github.com/k99812/WKMetaverse)| 유니티 멀티플레이 <br> 팀 프로젝트 |2022.06 ~ 2023.02| 완료 |
+| [Cpp](https://github.com/k99812/Cpp) | 코딩테스트 <br> 알고리즘 문제 풀이 |2023.05 ~ | 진행중 |
+| [k99812.github.io](https://github.com/k99812/k99812.github.io)| 포트폴리오 <br> 사이트 |2025.06 ~ | 진행중 |
 
 <span class="detail">프로젝트의 코드와 기술설명은 GitHub 저장소에 있습니다.</span><br>
 <br>
