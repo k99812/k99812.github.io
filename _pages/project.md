@@ -90,4 +90,4 @@ toc_sticky: true
 - 모바일 터치 UI/UX 구현
   - 가상 조이스틱 캐릭터 이동
   - 드래그 카메라 컨트롤
-  - Android/IOS 플랫폼 대응
+  - PC/Android/IOS 로직 구분
