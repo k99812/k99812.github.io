@@ -47,6 +47,7 @@ toc_sticky: true
 - 어빌리티, 어트리뷰트셋 기반의 콤보 공격, 공격 판정 설계 및 구현
 - 게임 플레이 태그를 활용한 제어 및 상태 관리
 - Trace 기반의 공격 판정, 타격 시 GE를 통한 데미지 처리
+- 콤보 공격로직 개선 및 네트워크 지원
 
 ### 애니메이션 시스템
 - Locomotion, Jump, AimOffset, UpperBody Layer 블렌딩 구성
