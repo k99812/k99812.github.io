@@ -71,13 +71,13 @@ Unreal Engine 5 기반의 전투 시스템을 설계하며, GAS를 활용한 콤
   </div>
 
   <div class="blog-card">
-    <img src="/assets/images/value.png" alt="블로그 썸네일" class="blog-image" />
+    <img src="/assets/images/network.png" alt="블로그 썸네일" class="blog-image" />
 
   <div class="blog-info">
       <h3>기존 콤보공격 로직 개선 및 네트워크 지원</h3>
-      <p>C++ 이동 시멘틱을 이해하기 위한 lvalue, rvalue, xvalue 개념 정리</p>
+      <p>기존 타이머 기반 콤보로직을 GAS 이벤트 기반 로직으로 변경</p>
       <a href="https://k99812.tistory.com/192" target="_blank" class="blog-link">
-        <img src="/assets/images/network.png"
+        <img src="/assets/images/blog.png"
            alt="블로그 링크"
            class="blog-icon" />
         <span>블로그 글 보기</span>
